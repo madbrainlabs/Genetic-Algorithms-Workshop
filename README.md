@@ -1,4 +1,4 @@
-![Genetic Algorithms Workshop Cover](./assets/cover.png)
+![Genetic Algorithms Workshop Cover](.assets/cover.jpg)
 
 # 🧬 Genetic Algorithms Workshop
 
@@ -58,8 +58,6 @@ Genetic-Algorithms-Workshop/
 │   ├── 02_knapsack_solution.ipynb
 │   ├── 03_nurse_scheduling_exercise.ipynb
 │   ├── 03_nurse_scheduling_solution.ipynb
-│
-└── requirements.txt             ← Python dependencies
 ```
 
 ---
