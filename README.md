@@ -117,7 +117,6 @@ The slides cover:
 | 🧩 1 | **OneMax Problem**    | Introduction to genetic representation and basic operators. |
 | 🎒 2 | **Knapsack Problem**  | Combining value optimization with constraints.              |
 | 👩‍⚕️ 3 | **Nurse Scheduling**  | Handling hard and soft constraints using GA.                |
-| 🧬 4 | **Advanced Concepts** | Elitism, niching, and tuning evolutionary parameters.       |
 
 ---
 
